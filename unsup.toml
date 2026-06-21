@@ -48,3 +48,25 @@ choices = ["controlling_on", "controlling_off"]
 flavors = ["controlling_on"]
 [metafile.searchables]
 flavors = ["controlling_on"]
+
+[flavor_groups.lootbeams]
+name = "Loot Beams"
+description = "Adds a mod that adds small beams above rare items."
+side = "client"
+choices = ["lootbeams_on", "lootbeams_off"]
+
+[metafile.loot-beams-up]
+flavors = ["lootbeams_on"]
+
+[flavor_groups.utility]
+name = "Utility"
+description = "Adds some basic utility mods like Jade, AppleSkin, and Held Item Info. Jade tells you what block you're looking at, and AppleSkin tells you how much saturation and hunger food gives."
+side = "client"
+choices = ["utility_on", "utility_off"]
+
+[metafile.jade]
+flavors = ["utility_on"]
+[metafile.held-item-info]
+flavors = ["utility_on"]
+[metafile.appleskin]
+flavors = ["utility_on"]
