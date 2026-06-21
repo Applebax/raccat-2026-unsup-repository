@@ -3,47 +3,39 @@ name = "Particle Effects"
 description = "Enable mods that add more particle effects."
 side = "client"
 choices = ["particles_on", "particles_off"]
-
-[metafile.particle-effects]
-flavors = ["particles_on"]
-[metafile.make_bubbles_pop]
-flavors = ["particles_on"]
-
-[flavor_groups.shaders]
-name = "Shaders"
-description = "Install Iris, a mod that allows the use of shader packs."
-side = "client"
-choices = ["shaders_on", "shaders_off"]
-
-[metafile.iris]
-flavors = ["shaders_on"]
-[metafile.sodium]
-flavors = ["shaders_on"]
-
 [flavor_groups.healthbars]
 name = "Health Bars"
 description = "Install a mod that adds health bars above entities."
 side = "client"
 choices = ["heathbars_on", "healthbars_off"]
-
-[metafile.provis-health-bars]
-flavors = ["healthbars_on"]
-
+[flavor_groups.shaders]
+name = "Shaders"
+description = "Install Iris, a mod that allows the use of shader packs."
+side = "client"
+choices = ["shaders_on", "shaders_off"]
 [flavor_groups.mousetweaks]
 name = "Mouse Tweaks"
 description = "Add Mouse Tweaks, a mod that adds some useful inventory management things like scrolling items."
 side = "client"
 choices = ["mousetweaks_on", "mousetweaks_off"]
-
-[metafile.mouse-tweaks]
-flavors = ["mousetweaks_on"]
-
 [flavor_groups.controlling]
 name = "Controlling"
 description = "Adds the mod that lets you filter and search keybindings."
 side = "client"
 choices = ["controlling_on", "controlling_off"]
 
+[metafile.particle-effects]
+flavors = ["particles_on"]
+[metafile.make_bubbles_pop]
+flavors = ["particles_on"]
+[metafile.iris]
+flavors = ["shaders_on"]
+[metafile.sodium]
+flavors = ["shaders_on"]
+[metafile.provis-health-bars]
+flavors = ["healthbars_on"]
+[metafile.mouse-tweaks]
+flavors = ["mousetweaks_on"]
 [metafile.controlling]
 flavors = ["controlling_on"]
 [metafile.searchables]
