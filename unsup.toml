@@ -1,13 +1,8 @@
 [flavor_groups.particles]
 name = "Particle Effects"
 description = "Enable mods that add more particle effects?"
-side = client
-[[flavor_groups.particles.choices]]
-id = "particles_on"
-name = "Yes"
-[[flavor_groups.particles.choices]]
-id = "particles_off"
-name = "No"
+side = "client"
+choices = ["particles_on", "particles_off"]
 
 [metafile.particle-effects]
 flavors = ["particles_on"]
