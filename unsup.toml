@@ -70,3 +70,24 @@ flavors = ["utility_on"]
 flavors = ["utility_on"]
 [metafile.appleskin]
 flavors = ["utility_on"]
+
+[flavor_groups.expcounter]
+name = "EXP Counter"
+description = "Adds the mod that puts numbers over your XP bar."
+side = "client"
+choices = ["expcounter_on", "expcounter_off"]
+
+[metafile.exp-counter]
+flavors = ["expcounter_on"]
+[metafile.deimos]
+flavors = ["expcounter_on"]
+
+
+[flavor_groups.chatanimations]
+name = "Chat Animations"
+description = "Adds the mod that makes the chat more animated."
+side = "client"
+choices = ["chatanimations_on", "chatanimations_off"]
+
+[metafile.chatanimation]
+flavors = ["chatanimations_on"]
