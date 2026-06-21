@@ -133,11 +133,6 @@ hash = "c5e6a8812606fb99363459037ea3cb85f9d979257f193e54d00300325d9ee6b6"
 metafile = true
 
 [[files]]
-file = "mods/global-xp.pw.toml"
-hash = "14fb4938b6fc40be1d04d1a476e7b6a5c49aa51bc7ae0cd20f34ce0fc5524e23"
-metafile = true
-
-[[files]]
 file = "mods/held-item-info.pw.toml"
 hash = "cf0de75cdba1e413f4a89c85734cca51e5928977f5df73f11a29f117474f77b0"
 metafile = true
