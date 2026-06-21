@@ -64,6 +64,11 @@ hash = "657220afbc318761299ffb602767bcc8485438496b30bb8aa0ce042f3d535ed6"
 metafile = true
 
 [[files]]
+file = "mods/deimos.pw.toml"
+hash = "a5d28b21f75aa236b05940d6a56faef6e9e69bf07689e1228fc9e545525303ad"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "822efb490981be4fd0584484627c0ab1e5a18d1df4b43b17cca526f18d76f5cd"
 metafile = true
