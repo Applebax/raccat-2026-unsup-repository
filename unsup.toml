@@ -1,10 +1,15 @@
-[flavor_groups.prettiness]
-name = "Visuals"
-description = "Mods that make the game slightly prettier."
+[flavor_groups.particles]
+name = "Particle Effects"
+description = "Enable mods that add more particle effects?"
 side = client
-choices = ["prettiness_on", "prettiness_off"]
+[[flavor_groups.particles.choices]]
+id = "particles_on"
+name = "Yes"
+[[flavor_groups.particles.choices]]
+id = "particles_off"
+name = "No"
 
 [metafile.particle-effects]
-flavors = ["prettiness_on"]
+flavors = ["particles_on"]
 [metafile.make_bubbles_pop]
-flavors = ["prettiness_on"]
+flavors = ["particles_on"]
