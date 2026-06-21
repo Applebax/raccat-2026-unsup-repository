@@ -1,8 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/HeartMod_1.21.jar"
+hash = "6481c02602530c2134edd6c453779fead7dd36fcb844cc576f8ca66e49af4498"
+
+[[files]]
 file = "mods/antique-atlas-4.pw.toml"
 hash = "cd55f7bc85a6cbc7377b42d3e75b9d97c6adf4a9cb7c411a5ad8bfacadc56441"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "525abf73aee19b217738b94b1c25fcc3daec7ba53b7425ca79ad06ad6b979f17"
 metafile = true
 
 [[files]]
@@ -22,6 +31,11 @@ metafile = true
 [[files]]
 file = "mods/backported-spears.pw.toml"
 hash = "b5a98a540822513d5495fd1db58216fbab9d241f2a51b6b2ce34a9f1f25d30a3"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "407334502fcaa514abd39146b262b478b5d85f8565b3b059e532f93a3ce73afb"
 metafile = true
 
 [[files]]
@@ -62,6 +76,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "a103b0ddd24e4e3f4af7b9e1a94123cf9c752fd5195f3c7ef2a590d385cab8a6"
+metafile = true
+
+[[files]]
+file = "mods/exp-counter.pw.toml"
+hash = "5fabbcbe9c651fc119394ecd4ad35a6ec985e2cac7488acc222818546ba3ba3d"
 metafile = true
 
 [[files]]
@@ -110,8 +129,8 @@ hash = "14fb4938b6fc40be1d04d1a476e7b6a5c49aa51bc7ae0cd20f34ce0fc5524e23"
 metafile = true
 
 [[files]]
-file = "mods/heart-mod.pw.toml"
-hash = "c5c1fafd1609ee023edb150457c464bf8bb10b8a11bf1e2390e61a55f165c369"
+file = "mods/held-item-info.pw.toml"
+hash = "cf0de75cdba1e413f4a89c85734cca51e5928977f5df73f11a29f117474f77b0"
 metafile = true
 
 [[files]]
@@ -130,8 +149,23 @@ hash = "6ee94689dd67f0210e07feafac8140e8968bcbcd67defcfbdcd677cf78943900"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "6851f38e9b44b130a0eaa27f3483141ddf5fc56e89a474b12bfc2d4c179a146b"
+metafile = true
+
+[[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
 hash = "35c9286e4ba744cca20c3f8c5c069880e9f6bf7364c6a3bdccf5a83ea7213e9e"
+metafile = true
+
+[[files]]
+file = "mods/loot-beams-up.pw.toml"
+hash = "713c3c080301905c407e23d0e6b419fffe76e9685d812e5f42618b3f5a329e0e"
+metafile = true
+
+[[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "1b546a1587ab4afd6b9778bbe031c568dd01c75e0fa1277c4b38c7e819609a74"
 metafile = true
 
 [[files]]
@@ -145,8 +179,18 @@ hash = "82fad0fe382bd74c6e07c9e608838df3153dc706b5311f1f31b93c1c39ee0bff"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "c389cebec74679d27f96f67a297c459b1bbd5d663e6c52553b687e7699902a03"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
+metafile = true
+
+[[files]]
+file = "mods/particle-effects.pw.toml"
+hash = "207114c7d23c5a0d419f070b828061a4e636aa9de0605866fe68b81673b1902c"
 metafile = true
 
 [[files]]
@@ -157,6 +201,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "a79f5a6263ace23d98503c64d48039c4659f1b0ce227513ae4e4f485ad266827"
+metafile = true
+
+[[files]]
+file = "mods/provis-health-bars.pw.toml"
+hash = "98f7fc1ff6638b478d8c87ff7943a0ea7001bff787d6f4f6fa2d753c6e5d82da"
 metafile = true
 
 [[files]]
@@ -221,4 +270,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "e16f1596201850fd4a63680b27f603cb64e67176159be3d8ed78a4403fdb1700"
+hash = "35512a4ff5ab36368d110cdc77ce47bf17f2814a9f6fc3a7f6b89940110222eb"
