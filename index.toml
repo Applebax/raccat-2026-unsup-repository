@@ -1,0 +1,190 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "cd55f7bc85a6cbc7377b42d3e75b9d97c6adf4a9cb7c411a5ad8bfacadc56441"
+metafile = true
+
+[[files]]
+file = "mods/armored-foes.pw.toml"
+hash = "9df38a2bcb56bfe4e0ac1cf3859c34357bfc69de87f67059545d59741af8189d"
+metafile = true
+
+[[files]]
+file = "mods/ascent-experiment-1.0.0.jar"
+hash = "0d7f29b93dd511ba2f86c6c2bff5e29e603bff9f854dd97c7039ddb6d3e74afe"
+
+[[files]]
+file = "mods/backport-copper-age.pw.toml"
+hash = "9c178c471ef9ab3dd09873dd06c20e59fd15c2437cdd8485e3668c1d5d0a2ad7"
+metafile = true
+
+[[files]]
+file = "mods/backported-spears.pw.toml"
+hash = "b5a98a540822513d5495fd1db58216fbab9d241f2a51b6b2ce34a9f1f25d30a3"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "f034737e999cc9b1e7901fa611a7eb510261e74f1d3ce36324958575e5494cf6"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "721ed00f7c9e764236711c09e67db5404339b255620a9896a707c8d3a9133b9f"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "8d64c7ac84268d7ee17e7a2d150bfe8f2587d4db7ec6cbd55a18a6bddcd35296"
+metafile = true
+
+[[files]]
+file = "mods/cut-through.pw.toml"
+hash = "657220afbc318761299ffb602767bcc8485438496b30bb8aa0ce042f3d535ed6"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "822efb490981be4fd0584484627c0ab1e5a18d1df4b43b17cca526f18d76f5cd"
+metafile = true
+
+[[files]]
+file = "mods/earth-and-water.pw.toml"
+hash = "63ba6e749a817b957d74c48cf3c2218b8d3e9f9113d1c79ee54e62c1abd709e0"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "a103b0ddd24e4e3f4af7b9e1a94123cf9c752fd5195f3c7ef2a590d385cab8a6"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "5ca0660e2015bb06b6103e372ac98073c462c7dd83bd9dee2e1a6a7424fdd990"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "76d6dabb6939da2976e139951a41ae1c5fb9ba9d0c1f7af77b19b1e6491b37eb"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "ee19fd713240c0fa9cf648e367db3e0d3e320a6ef334c12f660aaef89b7d20f3"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "efec8c2c19d8b2d3e088c44e319e43004d27a4ebaddb3faf437ab76a8a572401"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "617a98a435a62205bc99c1b2b55469a4bf00b4b5251545180a44cd1540403a39"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "699962a665d7daf61823fe8f9376ca03a4e72014daea1f6b93bb3ca4295345d7"
+metafile = true
+
+[[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "ada64d5855618ef88328230949c5b6fdd65ed7c62664d093c860edb047c11aa3"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "c5e6a8812606fb99363459037ea3cb85f9d979257f193e54d00300325d9ee6b6"
+metafile = true
+
+[[files]]
+file = "mods/global-xp.pw.toml"
+hash = "14fb4938b6fc40be1d04d1a476e7b6a5c49aa51bc7ae0cd20f34ce0fc5524e23"
+metafile = true
+
+[[files]]
+file = "mods/heart-mod.pw.toml"
+hash = "c5c1fafd1609ee023edb150457c464bf8bb10b8a11bf1e2390e61a55f165c369"
+metafile = true
+
+[[files]]
+file = "mods/illager-invasion.pw.toml"
+hash = "a2e84291adb3b2932839666ee91d4cba8bac982f8e439e23c6c910ec32d9b2b5"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "a4d23e9e695bdd64d3f1b3bccb52585fcc02e520851fba5a9859cf7890a6c068"
+metafile = true
+
+[[files]]
+file = "mods/mcqoy.pw.toml"
+hash = "e002e47280360677df870170b249484c95d5eaeba267ee6f2fb4de2a27cf64d5"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "82fad0fe382bd74c6e07c9e608838df3153dc706b5311f1f31b93c1c39ee0bff"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "260d90e160256f1eb222a57f10df991d5b95d741327e83cf1fa96ba68bf505cd"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "a79f5a6263ace23d98503c64d48039c4659f1b0ce227513ae4e4f485ad266827"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "05aca61945d545e937c4ac63850f5cb93b4ec993a60701788dfcdc4605f2e5a3"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "2efe133342c1de0f08d078a3873b0e2f794b29c93aacc966995caea32e94802f"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
+hash = "93cc17532c11a798d88c3b7fdd23cdf1800e6db49848b716a3389a5e0ad9ad01"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "63d7e1430cdb5a3977e906fd416b32b82e05038a3603c105aeadea56be4f956f"
+metafile = true
+
+[[files]]
+file = "mods/surveyor.pw.toml"
+hash = "240b6b2135b522d90d19a5fccfabedb64cc7c11b53e2717b6276420383b925dc"
+metafile = true
+
+[[files]]
+file = "mods/u-team-core.pw.toml"
+hash = "9e047d573a6ea600526cf3ce9703a384443937ba58e820993143b8c02b163b2c"
+metafile = true
+
+[[files]]
+file = "mods/underground-worlds.pw.toml"
+hash = "f9ae184ba6bfa451f6ed4eabae52eb0e902f0890f6d87baae07330e7bd039149"
+metafile = true
+
+[[files]]
+file = "mods/wilder-wild.pw.toml"
+hash = "66de5f473e55f975e7496cfa01b5eb4cdf38ac91320899a2b828386d82adb6bc"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "6a22654da25ccbabd634f9f29b2cf4b055de73d23d414ae158b7364bdc9b8a03"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "7207eff3198b097bcf6477998edfca964b764bef7d16b4ec8bfb42a9e017f63f"
+metafile = true
