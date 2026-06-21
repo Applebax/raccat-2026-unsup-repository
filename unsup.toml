@@ -1,0 +1,10 @@
+[flavor_groups.prettiness]
+name = "Visuals"
+description = "Mods that make the game slightly prettier."
+side = client
+choices = ["prettiness_on", "prettiness_off"]
+
+[metafile.particle-effects]
+flavors = ["prettiness_on"]
+[metafile.make_bubbles_pop]
+flavors = ["prettiness_on"]

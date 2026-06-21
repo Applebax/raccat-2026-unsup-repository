@@ -35,6 +35,11 @@ hash = "721ed00f7c9e764236711c09e67db5404339b255620a9896a707c8d3a9133b9f"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
+metafile = true
+
+[[files]]
 file = "mods/custom-player-models.pw.toml"
 hash = "8d64c7ac84268d7ee17e7a2d150bfe8f2587d4db7ec6cbd55a18a6bddcd35296"
 metafile = true
@@ -120,6 +125,16 @@ hash = "a4d23e9e695bdd64d3f1b3bccb52585fcc02e520851fba5a9859cf7890a6c068"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "6ee94689dd67f0210e07feafac8140e8968bcbcd67defcfbdcd677cf78943900"
+metafile = true
+
+[[files]]
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "35c9286e4ba744cca20c3f8c5c069880e9f6bf7364c6a3bdccf5a83ea7213e9e"
+metafile = true
+
+[[files]]
 file = "mods/mcqoy.pw.toml"
 hash = "e002e47280360677df870170b249484c95d5eaeba267ee6f2fb4de2a27cf64d5"
 metafile = true
@@ -127,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "82fad0fe382bd74c6e07c9e608838df3153dc706b5311f1f31b93c1c39ee0bff"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
 
 [[files]]
@@ -145,8 +165,18 @@ hash = "05aca61945d545e937c4ac63850f5cb93b4ec993a60701788dfcdc4605f2e5a3"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "2efe133342c1de0f08d078a3873b0e2f794b29c93aacc966995caea32e94802f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "b6debf937cdddf206367ddefb8113c840fe656e99d0c2279766ae9fbab164d30"
 metafile = true
 
 [[files]]
@@ -188,3 +218,7 @@ metafile = true
 file = "mods/yigd.pw.toml"
 hash = "7207eff3198b097bcf6477998edfca964b764bef7d16b4ec8bfb42a9e017f63f"
 metafile = true
+
+[[files]]
+file = "unsup.toml"
+hash = "e16f1596201850fd4a63680b27f603cb64e67176159be3d8ed78a4403fdb1700"
