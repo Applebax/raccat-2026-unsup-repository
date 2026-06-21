@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/appleskin.json5"
+hash = "13ebd9e3ec97247009c02f39729924ef9bd723bce1db0b2ad9c71ef2162315e1"
+
+[[files]]
 file = "mods/HeartMod_1.21.jar"
 hash = "6481c02602530c2134edd6c453779fead7dd36fcb844cc576f8ca66e49af4498"
 
@@ -275,4 +279,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "35512a4ff5ab36368d110cdc77ce47bf17f2814a9f6fc3a7f6b89940110222eb"
+hash = "b59c2c2477c99991f260e8511d6489bef9ca09fd5423a3759b08ef5b667cdf7e"
