@@ -24,8 +24,8 @@ hash = "9df38a2bcb56bfe4e0ac1cf3859c34357bfc69de87f67059545d59741af8189d"
 metafile = true
 
 [[files]]
-file = "mods/ascent-experiment-1.1.1.jar"
-hash = "cedf1a57c3ecd53432a4e33fb2c6f3bd9650703f90370c67a5a6f63c03cec9c2"
+file = "mods/ascent-experiment-1.2.0.jar"
+hash = "f0419940c9c7eada689bbd5ed364aecd6c6acd1a73e94edfeebb11b2e3beb1b4"
 
 [[files]]
 file = "mods/backport-copper-age.pw.toml"
@@ -35,6 +35,11 @@ metafile = true
 [[files]]
 file = "mods/backported-spears.pw.toml"
 hash = "b5a98a540822513d5495fd1db58216fbab9d241f2a51b6b2ce34a9f1f25d30a3"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "6d4de3bf124c98a61c022477e07c8386940d4804001f5f71b322c9b1b74cb5c2"
 metafile = true
 
 [[files]]
@@ -173,6 +178,11 @@ hash = "1b546a1587ab4afd6b9778bbe031c568dd01c75e0fa1277c4b38c7e819609a74"
 metafile = true
 
 [[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "3380c88df8fd2043714af8f906b64a7df0451002ab23407fe4b1f0d451b39a30"
+metafile = true
+
+[[files]]
 file = "mods/mcqoy.pw.toml"
 hash = "e002e47280360677df870170b249484c95d5eaeba267ee6f2fb4de2a27cf64d5"
 metafile = true
@@ -205,6 +215,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "a79f5a6263ace23d98503c64d48039c4659f1b0ce227513ae4e4f485ad266827"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
 metafile = true
 
 [[files]]
@@ -271,6 +286,10 @@ metafile = true
 file = "mods/yigd.pw.toml"
 hash = "7207eff3198b097bcf6477998edfca964b764bef7d16b4ec8bfb42a9e017f63f"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Watermelon.zip"
+hash = "e64c5b156dcf3331c57198f6f8e1b12616c750b031b4c63f733472f2564e31cf"
 
 [[files]]
 file = "unsup.toml"
