@@ -43,6 +43,11 @@ hash = "6d4de3bf124c98a61c022477e07c8386940d4804001f5f71b322c9b1b74cb5c2"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "722cb26575af13b2f65146259e2008dfbc0a953a862a4de8fd2306622d8d3987"
+metafile = true
+
+[[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "407334502fcaa514abd39146b262b478b5d85f8565b3b059e532f93a3ce73afb"
 metafile = true
@@ -115,6 +120,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "efec8c2c19d8b2d3e088c44e319e43004d27a4ebaddb3faf437ab76a8a572401"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "c16343c120e78e2bc5bac1dad8bda46e370aaf3214a85ddfd48429859a1b8f9c"
 metafile = true
 
 [[files]]
