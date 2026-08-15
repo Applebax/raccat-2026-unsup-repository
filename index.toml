@@ -24,8 +24,8 @@ hash = "9df38a2bcb56bfe4e0ac1cf3859c34357bfc69de87f67059545d59741af8189d"
 metafile = true
 
 [[files]]
-file = "mods/ascent-experiment-1.2.4.jar"
-hash = "aa8fe871dd5b76ffff2c44c744668cef9aac02cfbae23ce109246790b5f5f5ab"
+file = "mods/ascent-experiment-1.2.5.jar"
+hash = "857204494a0f2a01c4705127a17aa5c6be283ef445bed73bdc33488dda2dd4d8"
 
 [[files]]
 file = "mods/backport-copper-age.pw.toml"
